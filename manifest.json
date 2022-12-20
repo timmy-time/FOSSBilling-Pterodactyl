@@ -1,0 +1,7 @@
+{
+    "id":           "servicesaas",
+	"type":         "mod",
+    "name":         "SaaS product type",
+    "description":  "FOSSBilling extension module",
+    "version":      "1.0.0"
+}
