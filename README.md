@@ -1,2 +1,2 @@
-# ServiceSaaS
-FOSSBilling extension to support external SaaS products
+# Pterodactyl Module
+FOSSBilling extension for [Pterodactyl](https://pterodactyl.io)
